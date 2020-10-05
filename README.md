@@ -9,6 +9,6 @@
 + README.md …このファイル
 + slides.pdf …スライド
 + twitter.ipynb …rtweetを用いてTwitterのAPIを叩くデモ
-    + .env_example …APIキーを記録するenvファイルのサンプル（動かすためには自分で入手したキーに置き換えてください）
+    + .env_example …APIキーを記録するenvファイルのサンプル。動かすためには自分で入手したキーに値を置き換えた.envファイルを作ってください。
 + parsing.ipynb …json/xml/htmlから情報を抜き出すデモ(R)
     + tweet_example.json …JSONのサンプルデータ

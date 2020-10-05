@@ -1,0 +1,292 @@
+[
+    {
+        "created_at": "Fri Sep 25 14:21:16 +0000 2020",
+        "id": 1309498205579567104,
+        "id_str": "1309498205579567104",
+        "text": "RT @ShimaneU_HMN: \u3010\u5b66\u751f\u306e\u7686\u3055\u3093\u3078\u3011\n10\u67083\u65e5(\u571f)13\u6642\u301c\u3000\u8b1b\u5e2b\u306b\u4f50\u85e4\u6d69\u8f14\u5148\u751f(\u660e\u6cbb\u5927\u5b66)\u3001\u4e2d\u5206\u9059\u5148\u751f(\u9ad8\u77e5\u5de5\u79d1\u5927\u5b66)\u3092\u8fce\u3048\u300c\u30aa\u30f3\u30e9\u30a4\u30f3\u7814\u7a76\u30b9\u30ad\u30eb\u30a2\u30c3\u30d7\u8b1b\u5ea7\u300d\u3092\u958b\u50ac\u3057\u307e\u3059\u3002\n\u65b0\u578b\u30b3\u30ed\u30ca\u6642\u4ee3\u4e0b\u306e\u7814\u7a76\u306b\u5fc5\u8981\u306a\u30b9\u30ad\u30eb\u3092\u8eab\u306b\u4ed8\u3051\u3089\u308c\u308b\u8cb4\u91cd\u306a\u6a5f\u4f1a\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u305c\u3072\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ShimaneU_HMN",
+                    "name": "\u5cf6\u6839\u5927\u5b66\u4eba\u9593\u79d1\u5b66\u90e8(\u5e83\u5831)",
+                    "id": 760731712053706752,
+                    "id_str": "760731712053706752",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 829218059156062209,
+            "id_str": "829218059156062209",
+            "name": "Kosuke Sato",
+            "screen_name": "cosine_135",
+            "location": "adjacent / hypotenuse",
+            "description": "Social Scientist.  Music Information Retrieval / Behavioral Science / Data mining.  Interested in quantitative analysis of cultural constructs (e.g. folktales)",
+            "url": "https://t.co/6dEuUn6xBk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6dEuUn6xBk",
+                            "expanded_url": "https://sites.google.com/view/sato-cos135/en",
+                            "display_url": "sites.google.com/view/sato-cos1\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 46,
+            "friends_count": 63,
+            "listed_count": 1,
+            "created_at": "Wed Feb 08 06:39:26 +0000 2017",
+            "favourites_count": 1611,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1613,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/829256869051035649/KJdvlrfP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/829256869051035649/KJdvlrfP_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Sep 25 09:26:32 +0000 2020",
+            "id": 1309424036481347584,
+            "id_str": "1309424036481347584",
+            "text": "\u3010\u5b66\u751f\u306e\u7686\u3055\u3093\u3078\u3011\n10\u67083\u65e5(\u571f)13\u6642\u301c\u3000\u8b1b\u5e2b\u306b\u4f50\u85e4\u6d69\u8f14\u5148\u751f(\u660e\u6cbb\u5927\u5b66)\u3001\u4e2d\u5206\u9059\u5148\u751f(\u9ad8\u77e5\u5de5\u79d1\u5927\u5b66)\u3092\u8fce\u3048\u300c\u30aa\u30f3\u30e9\u30a4\u30f3\u7814\u7a76\u30b9\u30ad\u30eb\u30a2\u30c3\u30d7\u8b1b\u5ea7\u300d\u3092\u958b\u50ac\u3057\u307e\u3059\u3002\n\u65b0\u578b\u30b3\u30ed\u30ca\u6642\u4ee3\u4e0b\u306e\u7814\u7a76\u306b\u5fc5\u8981\u306a\u30b9\u30ad\u30eb\u3092\u8eab\u306b\u4ed8\u3051\u3089\u308c\u308b\u8cb4\u91cd\u306a\u6a5f\u4f1a\u3068\u306a\u308a\u307e\u2026 https://t.co/l9yH0Kq29Z",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/l9yH0Kq29Z",
+                        "expanded_url": "https://twitter.com/i/web/status/1309424036481347584",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 760731712053706752,
+                "id_str": "760731712053706752",
+                "name": "\u5cf6\u6839\u5927\u5b66\u4eba\u9593\u79d1\u5b66\u90e8(\u5e83\u5831)",
+                "screen_name": "ShimaneU_HMN",
+                "location": "\u5cf6\u6839 \u677e\u6c5f\u5e02",
+                "description": "\u5cf6\u6839\u5927\u5b66\u4eba\u9593\u79d1\u5b66\u90e8\u5e83\u5831WG\u3067\u3059\u3002\u4eba\u9593\u79d1\u5b66\u90e8\u306b\u95a2\u3059\u308b\u30cb\u30e5\u30fc\u30b9\u30fb\u304a\u77e5\u3089\u305b\u30fb\u30a4\u30d9\u30f3\u30c8\u306a\u3069\u3092\u767a\u4fe1\u3057\u3066\u3044\u304d\u307e\u3059\u3002\u539f\u5247Reply\u3084DM\u306b\u306f\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u305b\u3093\u3002\u304a\u554f\u3044\u5408\u308f\u305b\u306a\u3069\u306f\u3001\u4eba\u9593\u79d1\u5b66\u90e8\u30db\u30fc\u30e0\u30da\u30fc\u30b8\u306e\u30a2\u30af\u30bb\u30b9\u6b04\u63b2\u8f09\u306e\u30a2\u30c9\u30ec\u30b9\u307e\u3067\u3001\u30e1\u30fc\u30eb\u306a\u3069\u3067\u304a\u5bc4\u305b\u4e0b\u3055\u3044\u3002",
+                "url": "https://t.co/ocdwTz9XjI",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ocdwTz9XjI",
+                                "expanded_url": "http://www.hmn.shimane-u.ac.jp/",
+                                "display_url": "hmn.shimane-u.ac.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 365,
+                "friends_count": 11,
+                "listed_count": 8,
+                "created_at": "Wed Aug 03 06:59:08 +0000 2016",
+                "favourites_count": 32,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 543,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/895925535657697280/R2WGFyBk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/895925535657697280/R2WGFyBk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/760731712053706752/1502439821",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 8,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu Sep 17 08:58:36 +0000 2020",
+        "id": 1306517900811931648,
+        "id_str": "1306517900811931648",
+        "text": "\u5fae\u5206\u3068\u7a4d\u5206\u306f\u30b3\u30a4\u30f3\u306e\u88cf\u8868\u306e\u3088\u3046\u306a\u3082\u306e\u306e\u306f\u305a\u306a\u306e\u306b\u3001\u5fae\u5206\u306f\u76f4\u89b3\u7684\u306b\u308f\u304b\u308a\u3084\u3059\u3044\u306e\u306b\u5bfe\u3057\u3066\u7a4d\u5206\u304c\u6469\u8a36\u4e0d\u601d\u8b70\u306a\u3053\u3068\u3092\u3084\u3063\u3066\u3044\u308b\u3088\u3046\u306b\u611f\u3058\u3066\u3057\u307e\u3046\u306e\u306f\u306a\u305c\u306a\u306e\u3060\u308d\u3046\u304b\u2026\u3002",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 829218059156062209,
+            "id_str": "829218059156062209",
+            "name": "Kosuke Sato",
+            "screen_name": "cosine_135",
+            "location": "adjacent / hypotenuse",
+            "description": "Social Scientist.  Music Information Retrieval / Behavioral Science / Data mining.  Interested in quantitative analysis of cultural constructs (e.g. folktales)",
+            "url": "https://t.co/6dEuUn6xBk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6dEuUn6xBk",
+                            "expanded_url": "https://sites.google.com/view/sato-cos135/en",
+                            "display_url": "sites.google.com/view/sato-cos1\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 46,
+            "friends_count": 63,
+            "listed_count": 1,
+            "created_at": "Wed Feb 08 06:39:26 +0000 2017",
+            "favourites_count": 1611,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1613,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/829256869051035649/KJdvlrfP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/829256869051035649/KJdvlrfP_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    }
+]
